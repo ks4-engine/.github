@@ -1,6 +1,8 @@
 <div align="center">
 
 # The KS4 Engine Organization
-<img src="https://ks4-engine.github.io/img/ks4-engine-thumbnail.png" alt="Thumbnail" width="800">
-
+This is the official organization for KS4 Engine, where we make the repos for things such as:
+- Extensions
+- Our web development (mostly managed by nixtoasty)
+- Other KS4-Related repos
 </div>
